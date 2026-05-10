@@ -1,0 +1,19 @@
+Metadata-Version: 2.4
+Name: cryptox
+Version: 0.1.0
+Summary: A modern, pure-Python cryptography library with a clean API
+Author: Cryptox Contributors
+License: MIT
+Project-URL: Homepage, https://github.com/example/cryptox
+Project-URL: Documentation, https://cryptox.readthedocs.io
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Topic :: Security :: Cryptography
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+Requires-Dist: cryptography>=41.0.0
